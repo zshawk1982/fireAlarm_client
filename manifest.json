@@ -1,0 +1,25 @@
+{
+  "short_name": "火灾预警",
+  "name": "移动消防监控系统",
+  "icons": [
+    {
+      "src":"Fire_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src":"Fire_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src":"Fire_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ff0000",
+  "background_color": "#ff0000"
+}
